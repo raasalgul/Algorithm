@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author saskuma
+ *
+ */
+module algorithm {
+}
